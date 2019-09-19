@@ -9,23 +9,23 @@
 /* Begin PBXBuildFile section */
 		07335989233242CD00F5971C /* BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 0733596C233242CD00F5971C /* BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0733598A233242CD00F5971C /* BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 0733596D233242CD00F5971C /* BTUtils.m */; };
-		0733598C233242CD00F5971C /* NSArray+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335970233242CD00F5971C /* NSArray+BTUtils.h */; };
+		0733598C233242CD00F5971C /* NSArray+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335970233242CD00F5971C /* NSArray+BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0733598D233242CD00F5971C /* NSArray+BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 07335971233242CD00F5971C /* NSArray+BTUtils.m */; };
-		0733598E233242CD00F5971C /* NSData+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335973233242CD00F5971C /* NSData+BTUtils.h */; };
+		0733598E233242CD00F5971C /* NSData+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335973233242CD00F5971C /* NSData+BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0733598F233242CD00F5971C /* NSData+BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 07335974233242CD00F5971C /* NSData+BTUtils.m */; };
 		07335990233242CD00F5971C /* GTMNSString+HTML.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335976233242CD00F5971C /* GTMNSString+HTML.h */; };
 		07335991233242CD00F5971C /* GTMNSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = 07335977233242CD00F5971C /* GTMNSString+HTML.m */; };
-		07335992233242CD00F5971C /* NSString+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335978233242CD00F5971C /* NSString+BTUtils.h */; };
+		07335992233242CD00F5971C /* NSString+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335978233242CD00F5971C /* NSString+BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		07335993233242CD00F5971C /* NSString+BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 07335979233242CD00F5971C /* NSString+BTUtils.m */; };
-		07335994233242CD00F5971C /* UIColor+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 0733597B233242CD00F5971C /* UIColor+BTUtils.h */; };
+		07335994233242CD00F5971C /* UIColor+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 0733597B233242CD00F5971C /* UIColor+BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		07335995233242CD00F5971C /* UIColor+BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 0733597C233242CD00F5971C /* UIColor+BTUtils.m */; };
-		07335996233242CD00F5971C /* UIImage+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 0733597E233242CD00F5971C /* UIImage+BTUtils.h */; };
+		07335996233242CD00F5971C /* UIImage+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 0733597E233242CD00F5971C /* UIImage+BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		07335997233242CD00F5971C /* UIImage+BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 0733597F233242CD00F5971C /* UIImage+BTUtils.m */; };
-		07335998233242CD00F5971C /* UINavigationController+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335981233242CD00F5971C /* UINavigationController+BTUtils.h */; };
+		07335998233242CD00F5971C /* UINavigationController+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335981233242CD00F5971C /* UINavigationController+BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		07335999233242CD00F5971C /* UINavigationController+BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 07335982233242CD00F5971C /* UINavigationController+BTUtils.m */; };
-		0733599A233242CD00F5971C /* UITabBarController+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335984233242CD00F5971C /* UITabBarController+BTUtils.h */; };
+		0733599A233242CD00F5971C /* UITabBarController+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335984233242CD00F5971C /* UITabBarController+BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0733599B233242CD00F5971C /* UITabBarController+BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 07335985233242CD00F5971C /* UITabBarController+BTUtils.m */; };
-		0733599C233242CD00F5971C /* UIView+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335987233242CD00F5971C /* UIView+BTUtils.h */; };
+		0733599C233242CD00F5971C /* UIView+BTUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 07335987233242CD00F5971C /* UIView+BTUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0733599D233242CD00F5971C /* UIView+BTUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 07335988233242CD00F5971C /* UIView+BTUtils.m */; };
 /* End PBXBuildFile section */
 
@@ -187,9 +187,9 @@
 				0733599C233242CD00F5971C /* UIView+BTUtils.h in Headers */,
 				07335994233242CD00F5971C /* UIColor+BTUtils.h in Headers */,
 				0733598C233242CD00F5971C /* NSArray+BTUtils.h in Headers */,
-				07335990233242CD00F5971C /* GTMNSString+HTML.h in Headers */,
 				0733599A233242CD00F5971C /* UITabBarController+BTUtils.h in Headers */,
 				0733598E233242CD00F5971C /* NSData+BTUtils.h in Headers */,
+				07335990233242CD00F5971C /* GTMNSString+HTML.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
